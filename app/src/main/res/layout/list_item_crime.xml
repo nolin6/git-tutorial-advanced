@@ -9,7 +9,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
+<<<<<<< HEAD
         android:padding="4dp"/>
+=======
+        android:padding="6dp"/>
+>>>>>>> complex-merge
 
     <TextView
         android:id="@+id/list_item_crime_title_text_view"
@@ -18,7 +22,11 @@
         android:layout_toLeftOf="@id/list_item_crime_solved_check_box"
         android:textStyle="bold"
         tools:text="Crime Title"
+<<<<<<< HEAD
         android:padding="4dp"/>
+=======
+        android:padding="6dp"/>
+>>>>>>> complex-merge
 
     <TextView
         android:id="@+id/list_item_crime_date_text_view"
@@ -27,6 +35,10 @@
         android:layout_toLeftOf="@id/list_item_crime_solved_check_box"
         android:layout_below="@id/list_item_crime_title_text_view"
         tools:text="Crime Date"
+<<<<<<< HEAD
         android:padding="4dp"/>
+=======
+        android:padding="6dp"/>
+>>>>>>> complex-merge
 
 </RelativeLayout>
