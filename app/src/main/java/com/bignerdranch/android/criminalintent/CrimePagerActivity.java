@@ -12,7 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import java.util.List;
 import java.util.UUID;
 
-//Why save when you can commit
+//Why save when you can commit?
 
 public class CrimePagerActivity extends AppCompatActivity {
     private static final String EXTRA_CRIME_ID =
